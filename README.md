@@ -47,6 +47,7 @@
 ## 💬 Connect With Me
 - **LinkedIn**: [Nazar Akmyradov](https://www.linkedin.com/in/nazar-akmyradov/)
 - **GitHub**: [AkmyradovN](https://github.com/AkmyradovN)
+- **HackerRank**: [akmyradovnazar](https://www.hackerrank.com/akmyradovnazar)
 - **Email**: [akmyradovnazar@gmail.com](mailto:akmyradovnazar@gmail.com)
 
 ---
