@@ -44,10 +44,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkmyradovN&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
----
-
 ### 🚀 Fun Facts
 - Participated in **Physics Olympiads** in high school, earning 3rd place in the State Physics Olympiad.
